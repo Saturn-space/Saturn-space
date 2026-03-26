@@ -28,7 +28,8 @@ Currently, I am focusing on strengthening my fundamentals in **computer networks
 - Secure Network using ACL
 - Multi-Router Network using OSPF  
 
-👉 *(Check my repositories for detailed implementations)*
+👉 *(Check my repositories for detailed implementations: https://github.com/repos?q=owner%3A%40me)*
+
 
 ---
 
