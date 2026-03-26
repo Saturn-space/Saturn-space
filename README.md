@@ -45,7 +45,7 @@ Currently, I am exploring advanced networking topics while also strengthening my
 ---
 
 ## 📊 GitHub Stats
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saturn-space&show_icons=true&theme=tokyonight)
+![Mohan's GitHub stats](https://github.com/Saturn-space)
 
 ---
 
