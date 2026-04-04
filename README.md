@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Student passionate about **Networking & Cybersecurity**
+- 🎓 MCA Student passionate about **Networking & Cybersecurity**
 - 🧠 Completed **CCNA-level learning** with hands-on projects
 - 🛠️ Love building real-world network simulations using Cisco Packet Tracer
 - 📈 Focused on improving skills step by step through practical learning
