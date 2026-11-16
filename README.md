@@ -124,15 +124,21 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170"
-       src="./profile/stats.svg"
-       alt="Mohan's GitHub Stats"/>
+<div align="center">
+  <img
+    src="./profile/stats.svg"
+    width="400"
+    alt="Mohan's GitHub Stats"
+  />
 
-  <img height="170"
-       src="./profile/top-langs.svg"
-       alt="Top Languages"/>
-</p>
+  &nbsp;&nbsp;
+
+  <img
+    src="./profile/top-langs.svg"
+    width="400"
+    alt="Top Languages"
+  />
+</div>
 
 <p align="center">   <img src="https://streak-stats.demolab.com?user=Saturn-space&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> </p>
 
