@@ -121,9 +121,18 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
 
 🤖 Exploring AI-assisted security research and development.
 
-📊 GitHub Statistics
 
-<p align="center">   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saturn-space&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohan's GitHub Stats"/>   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saturn-space&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170"
+       src="./profile/stats.svg"
+       alt="Mohan's GitHub Stats"/>
+
+  <img height="170"
+       src="./profile/top-langs.svg"
+       alt="Top Languages"/>
+</p>
 
 <p align="center">   <img src="https://streak-stats.demolab.com?user=Saturn-space&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> </p>
 
