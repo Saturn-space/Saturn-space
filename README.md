@@ -1,8 +1,8 @@
 
 
-\<h1 align="center">Hey there, I'm Mohan Prasad 👋\</h1>
+<h1 align="center">Hey there, I'm Mohan Prasad 👋\</h1>
 
-\<h3 align="center">   Cybersecurity Enthusiast | Networking Learner | MCA Student \</h3>
+<h3 align="center">   Cybersecurity Enthusiast | Networking Learner | MCA Student \</h3>
 
 \<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Cybersecurity+%F0%9F%94%90;Building+and+Securing+Networks+%F0%9F%8C%90;Learning+by+Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Turning+Curiosity+Into+Practical+Skills+%F0%9F%9A%80](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Exploring+the+World+of+Cybersecurity+%F0%9F%94%90;Building+and+Securing+Networks+%F0%9F%8C%90;Learning+by+Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Turning+Curiosity+Into+Practical+Skills+%F0%9F%9A%80)" alt="Typing SVG" /> \</p>
 
