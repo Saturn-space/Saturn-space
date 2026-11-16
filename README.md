@@ -6,7 +6,7 @@
 
 <p align="center">   <a href="https://github.com/Saturn-space">     <img src="https://img.shields.io/badge/GitHub-Saturn--space-181717?style=for-the-badge&logo=github" alt="GitHub"/>   </a>   <a href="https://www.linkedin.com/in/mohan-prasad-unique-way-of-living/">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>   </a> </p>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm Mohan Prasad, an MCA student specializing in Cybersecurity at SGT University, with a Bachelor of Computer Applications (BCA) background.
 
@@ -24,7 +24,7 @@ I believe in learning through experimentation, building practical projects, and 
 
 🚀 Mindset: Learn, Build, Experiment, Improve.
 
-🧠 Technical Skills & Technologies
+## 🧠 Technical Skills & Technologies
 
 🌐 Networking & Infrastructure
 
@@ -63,7 +63,7 @@ I believe in learning through experimentation, building practical projects, and 
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 1. 🖧 CCNA Network Project
 
@@ -77,7 +77,7 @@ Network security implementation using ACLs.
 
 Multi-router network using OSPF.
 
-🔗 Explore Repository
+# 🔗 Explore Repository
 
 2. 📚 BCA Project Library
 
@@ -95,7 +95,7 @@ A frontend practice project inspired by a popular streaming platform, built to i
 
 🌐 View Live Project
 
-🔬 Research & Learning Interests
+## 🔬 Research & Learning Interests
 
 I'm particularly interested in exploring the intersection of cybersecurity, networking, and artificial intelligence.
 
@@ -109,7 +109,7 @@ Application Security: Learning how to identify and prevent security weaknesses i
 
 Digital Image Integrity: Exploring image modification history, edited regions, and image file formats.
 
-🎯 Currently Focused On
+## 🎯 Currently Focused On
 
 📡 Strengthening Networking and CCNA concepts.
 
@@ -128,8 +128,6 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
   <img height="170"
        src="./profile/stats.svg"
        alt="Mohan's GitHub Stats"/>
-  
- <br>
 
   <img height="170"
        src="./profile/top-langs.svg"
