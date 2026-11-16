@@ -124,10 +124,10 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div>
   <img
     src="./profile/stats.svg"
-    width="400"
+    width="400" height="170"
     alt="Mohan's GitHub Stats"
   />
 
@@ -135,7 +135,7 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
 
   <img
     src="./profile/top-langs.svg"
-    width="400"
+    width="400" height="170"
     alt="Top Languages"
   />
 </div>
