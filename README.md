@@ -128,6 +128,8 @@ Digital Image Integrity: Exploring image modification history, edited regions, a
   <img height="170"
        src="./profile/stats.svg"
        alt="Mohan's GitHub Stats"/>
+  
+ <br>
 
   <img height="170"
        src="./profile/top-langs.svg"
